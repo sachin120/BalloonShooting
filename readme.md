@@ -5,7 +5,7 @@
 
 Shoot the flying balloons. Be patient and achieve target. This Game is Developed in C++.
 
-![Alt text] (/BalloonShooting/Screenshot.png?raw=true)
+![picture](Screenshot.png)
 
 ### Author
 Sachin shingare
