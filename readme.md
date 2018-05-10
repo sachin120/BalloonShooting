@@ -3,7 +3,7 @@
 :monkey:
 ### Description 
 
-Shoot the flying balloons. Be patient and achieve target. This Game is Developed in C++.
+Shoot the flying balloons. Be patience and achieve target. This Game is Developed in C++.
 
 See Screenshot.png
 
