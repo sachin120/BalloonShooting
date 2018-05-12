@@ -10,6 +10,14 @@ See Screenshot.png
 ### Author
 Sachin shingare
 
+### Installation Required
+- GCC Compiler. 
+    - For Debian based System `sudo apt-get update`.
+    - `sudo apt-get install build-essential`
+
+- SFML Library.
+    - For Debian based System `sudo apt-get install libsfml-dev`.
+
 ### How to compile
 Use Cmake, It's Easy...
 
@@ -19,13 +27,6 @@ Use Cmake, It's Easy...
 
 You will find `./shooting-app` in `build` directory.
 
-### Installation Required
-- GCC Compiler. 
-    - For Debian based System `sudo apt-get update`.
-    - `sudo apt-get install build-essential`
-
-- SFML Library.
-    - For Debian based System `sudo apt-get install libsfml-dev`.
 
 Best Code Editor [Visual Studio Code](https://code.visualstudio.com/Download).
 
